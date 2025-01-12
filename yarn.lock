@@ -4342,7 +4342,7 @@
   dependencies:
     "@noble/hashes" "^1.3.3"
     "@safe-global/safe-core-sdk-types" "^5.1.0"
-    "@safe-global/safe-deployments" "^1.37.9"
+    "@exsat/test-safe-deployments" "^1.37.9"
     "@safe-global/safe-modules-deployments" "^2.2.1"
     abitype "^1.0.2"
     ethereumjs-util "^7.1.5"
@@ -4378,16 +4378,16 @@
   dependencies:
     abitype "^1.0.2"
 
-"@safe-global/safe-deployments@1.37.12":
+"@exsat/test-safe-deployments@1.37.12":
   version "1.37.12"
-  resolved "https://registry.yarnpkg.com/@safe-global/safe-deployments/-/safe-deployments-1.37.12.tgz#c01b0a272991ae0e63a37d506024a809de53c370"
+  resolved "https://registry.yarnpkg.com/@exsat/test-safe-deployments/-/safe-deployments-1.37.12.tgz#c01b0a272991ae0e63a37d506024a809de53c370"
   integrity sha512-6UM5wS6b0h4Uu2BCK6sWLNC5UYFBd1Xu4YsuZpoSjlo/6UDbbK6lzYVEgtqbsy8p1z2ZO+Z73WgRo3mlh7awig==
   dependencies:
     semver "^7.6.2"
 
-"@safe-global/safe-deployments@^1.37.9":
+"@exsat/test-safe-deployments@^1.37.9":
   version "1.37.10"
-  resolved "https://registry.yarnpkg.com/@safe-global/safe-deployments/-/safe-deployments-1.37.10.tgz#2f61a25bd479332821ba2e91a575237d77406ec3"
+  resolved "https://registry.yarnpkg.com/@exsat/test-safe-deployments/-/safe-deployments-1.37.10.tgz#2f61a25bd479332821ba2e91a575237d77406ec3"
   integrity sha512-lcxX9CV+xdcLs4dF6Cx18zDww5JyqaX6RdcvU0o/34IgJ4Wjo3J/RNzJAoMhurCAfTGr+0vyJ9V13Qo50AR6JA==
   dependencies:
     semver "^7.6.2"

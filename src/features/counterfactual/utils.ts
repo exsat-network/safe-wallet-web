@@ -29,7 +29,7 @@ import {
   TokenType,
 } from '@safe-global/safe-gateway-typescript-sdk'
 import type { BrowserProvider, ContractTransactionResponse, Eip1193Provider, Provider } from 'ethers'
-import { getSafeL2SingletonDeployments, getSafeSingletonDeployments } from '@safe-global/safe-deployments'
+import { getSafeL2SingletonDeployments, getSafeSingletonDeployments } from '@exsat/test-safe-deployments'
 import { sameAddress } from '@/utils/addresses'
 
 import { encodeSafeCreationTx } from '@/components/new-safe/create/logic'

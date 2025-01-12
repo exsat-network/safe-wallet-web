@@ -37,7 +37,7 @@
   },
   "resolutions": {
     "@safe-global/safe-core-sdk-types/**/ethers": "^6.11.1",
-    "@safe-global/protocol-kit/**/ethers": "^6.11.1",
+    "@exsat/test-protocol-kit/**/ethers": "^6.11.1",
     "@safe-global/api-kit/**/ethers": "^6.11.1",
     "@gnosis.pm/zodiac/**/ethers": "^6.11.1",
     "@types/react": "npm:types-react@19.0.0-rc.1",
@@ -57,7 +57,7 @@
     "@reduxjs/toolkit": "^2.2.6",
     "@reown/walletkit": "^1.1.1",
     "@safe-global/api-kit": "^2.4.6",
-    "@safe-global/protocol-kit": "^4.1.1",
+    "@exsat/test-protocol-kit": "^4.1.1",
     "@safe-global/safe-apps-sdk": "^9.1.0",
     "@safe-global/safe-client-gateway-sdk": "v1.60.1",
     "@safe-global/safe-deployments": "github:exsat-network/safe-deployments#test-own-package",
